@@ -1,0 +1,21 @@
+{
+    "name" : "Bima Sik",
+    "location" : "Tanihai",
+    "photoLink" : "https://e0.pxfuel.com/wallpapers/889/641/desktop-wallpaper-aesthetic-tiktok-aesthetic-profile-pic.jpg",
+    "title" : "Bringing Your Ideas to Life through Art",
+    "about" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "experience" : 2,
+    "projectCompleted" : 50,
+    "client" : 15,
+    "projectImageLink" : [
+        "https://plus.unsplash.com/premium_photo-1669018130011-2626d5b36e52?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+        "https://media.istockphoto.com/id/1172427455/photo/beautiful-sunset-over-the-tropical-sea.jpg?s=1024x1024&w=is&k=20&c=O5hWBVPkIW8dMUosrba6MUmvHR0Y1kiSpcehw8Mg_xM=",
+        "https://images.unsplash.com/photo-1493134799591-2c9eed26201a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2l0eSUyMHNreWxpbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+    ],
+    "socialLink" : {
+        "linkedIn": "",
+        "website": "",
+        "twitter": "",
+        "instagram": ""
+    }
+}
